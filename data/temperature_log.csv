@@ -1,0 +1,3 @@
+temperature_f,status,led
+68.0,NORMAL,OFF
+66.0,WARNING,ON
